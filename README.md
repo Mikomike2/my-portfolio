@@ -3,7 +3,8 @@
 This is my personal portfolio website where I showcase my skills, projects, and contact information. Built with HTML, CSS, and JavaScript, and deployed on Vercel.
 2️⃣ Live Demo (Website Link)
 ## 🌐 Live Demo  
-Check out my portfolio here: (https://my-portfolio-o8et5bo13-mikiyas-aberas-projects.vercel.app)
+Check out my portfolio here:https://mikeab.netlify.app/   or
+(https://my-portfolio-o8et5bo13-mikiyas-aberas-projects.vercel.app)
 3️⃣  Features
 ## ✨ Features  
 - 📌 Fully Responsive Design  
