@@ -3,8 +3,7 @@
 This is my personal portfolio website where I showcase my skills, projects, and contact information. Built with HTML, CSS, and JavaScript, and deployed on Vercel.
 2️⃣ Live Demo (Website Link)
 ## 🌐 Live Demo  
-Check out my portfolio here: [Your Portfolio Link](https://yourname.vercel.app)
-(Replace yourname.vercel.app with your actual domain.)
+Check out my portfolio here: (https://my-portfolio-o8et5bo13-mikiyas-aberas-projects.vercel.app)
 3️⃣  Features
 ## ✨ Features  
 - 📌 Fully Responsive Design  
@@ -20,12 +19,10 @@ Check out my portfolio here: [Your Portfolio Link](https://yourname.vercel.app)
 5️⃣ How to Use (For Developers)
 ## 🛠 How to Use  
 1. Clone this repository:  
-git clone  https://github.com/Mikomike2/my-portfolio.git
-2. Open `index.html` in a browser  
-3. Customize as needed  
-4. Deploy on Vercel 🚀  
+git clone  https://github.com/Mikomike2/my-portfolio.git 
 6️⃣ Contact Information
 ## 📞 Contact  
 If you like my work, feel free to reach out!  
+phone:+251962042085
 📧 Email: aberamiki89@gmail.com 
  
